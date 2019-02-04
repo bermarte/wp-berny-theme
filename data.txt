@@ -1,0 +1,10 @@
+WP DB:
+
+Database name: tema_bernardo
+Database username: root
+Database password: root
+Database host: localhost
+Table prefix: wp_
+
+admin: admin_bermarte
+password: bermarte123
